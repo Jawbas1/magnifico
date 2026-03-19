@@ -1,0 +1,29 @@
+.problems {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  max-width: 1280px;
+  max-height: 496px;
+  margin: 80px 0px 80px 0px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 30px;
+  padding: 80px;
+  color: var(--white);
+}
+
+.problems__content {
+  max-width: 520px;
+}
+
+
+.problems__content-title {
+  color: var(--white);
+}
+
+.problems__content-text {
+  color: var(--white);
+}
+
+.problems__link-text-white {
+  color: var(--white);
+}
